@@ -1,3 +1,11 @@
+# -*- coding=UTF-8 -*-
+# @Project          qinglongscript
+# @fileName         品赞代理签到.py
+# @author           wanju
+# @EditTime         2026/11/27
+# cron: 0 11 * * *
+# const $ = new Env("品赞代理签到");
+
 # 品赞HTTP代理签到
 # 账号：环境变量 pzhttp，格式 账号#密码，多账号用换行或 & 分隔；也可直接改下面的 ACCOUNTS
 # 推送：环境变量 PUSH_PLUS_TOKEN（可选，pushplus）
