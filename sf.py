@@ -1,5 +1,10 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+# -*- coding=UTF-8 -*-
+# @Project          qinglongscript
+# @fileName         sf.py
+# @author           wanju
+# @EditTime         2026/11/27
+# cron: 0 9 * * *
+# const $ = new Env("顺丰积分任务");
 """
 顺丰速运自动任务 v1.1.1
 
